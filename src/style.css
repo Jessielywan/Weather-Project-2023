@@ -67,3 +67,9 @@ h3 {
   font-size: 15px;
  
 }
+
+.footer {
+  display: block;
+  font-size: 10px;
+  text-align: center;
+}
